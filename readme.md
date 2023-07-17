@@ -4,7 +4,7 @@
 
 Send Message
 
-seng image :
+<h1>seng image : </h1> <br>
 post : http://ip:3000/send-image <br>
 body : {
     number: "085325324234", <br>
